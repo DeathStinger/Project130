@@ -1,0 +1,31 @@
+.heading{
+font-size: 23px;
+width: 100%;
+margin: 0px;}
+.note{
+font-size: 15px;
+color: black;}
+body{
+    background-size:cover ;}
+#song_name{
+    font-size: 23px;
+    margin: 15px;}
+.play_button{
+    width: 130px;
+    font-size: 25px;}
+canvas{
+    border: 5px solid whitesmoke;
+    border-radius: 20px;}
+    .copy_right_footer{
+        position: fixed;
+        color: rgb(250, 8, 8);
+        bottom: 0px;
+        text-decoration-color: rgb(0, 51, 30);
+      
+        width: 100%;
+        box-shadow:5px 5px 5px rgb(114, 8, 8);
+        font-size: larger;
+        background-color: rgb(8, 110, 97);
+        line-height: 3;
+        text-align: center; }
+
